@@ -8,4 +8,5 @@ Some changes were made:
 
 
 Original sampe code were taken from official Flir website: https://support.flir.com/SwDownload/Assets/Atlas/dotnet/flir-atlas-samples.zip
+Was used for educational purposes.
 Copyright: FLIR Systems Inc
